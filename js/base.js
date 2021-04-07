@@ -12,6 +12,18 @@ eng.google = {
 };
 
 
+/*	BING
+	----------------------------------------------------- */
+
+eng.bing = {
+	pageTitle: "Bing",
+	logo: "bing.png",
+	places: {
+		'Internet'    : ["https://www.bing.com/search?q=%query%", false]
+	}
+};
+
+
 /*	WIKIPEDIA
 	----------------------------------------------------- */
 	
