@@ -2,7 +2,7 @@
 var eng = {},
 	current = {},
 	fadeDur = 200,
-	titlePrefix = "Sobloxsy Search",
+	titlePrefix = "Sobloxsy Search ",
 	
 	idxWidth = 700,
 	idxLogoFull  = [225,80],
