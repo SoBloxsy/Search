@@ -24,6 +24,18 @@ eng.bing = {
 };
 
 
+/*	DUCKDUCKGO
+	----------------------------------------------------- */
+
+eng.bing = {
+	pageTitle: "Duckduckgo",
+	logo: "duckduckgo.png",
+	places: {
+		'Search'    : ["https://duckduckgo.com/?q=%query%", false]
+	}
+};
+
+
 /*	WIKIPEDIA
 	----------------------------------------------------- */
 	
