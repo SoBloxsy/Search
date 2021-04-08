@@ -4,7 +4,7 @@ var eng = {},
 	fadeDur = 200,
 	titlePrefix = "Sobloxsy Search ",
 	
-	idxWidth = 700,
+	idxWidth = 900,
 	idxLogoFull  = [225,80],
 	idxLogoSmall = [157,56],
 	idxMargin = 24,
