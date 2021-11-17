@@ -27,7 +27,7 @@ eng.bing = {
 /*	DUCKDUCKGO
 	----------------------------------------------------- */
 
-eng.bing = {
+eng.duckduckgo = {
 	pageTitle: "Duckduckgo",
 	logo: "duckduckgo.png",
 	places: {
