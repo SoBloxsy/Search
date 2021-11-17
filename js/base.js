@@ -19,7 +19,7 @@ eng.bing = {
 	pageTitle: "Bing",
 	logo: "bing.png",
 	places: {
-		'Internet'    : ["https://www.bing.com/search?q=%query%&PC=U316&FORM=SOBLOXSY", false]
+		'Web'    : ["https://www.bing.com/search?q=%query%&PC=U316&FORM=SOBLOXSY", false]
 	}
 };
 
