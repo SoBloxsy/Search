@@ -11,6 +11,16 @@ eng.google = {
 	}
 };
 
+/*	YAHOO
+	----------------------------------------------------- */
+
+eng.yahoo = {
+	pageTitle: "Yahoo",
+	logo: "yahoo.png",
+	places: {
+		'Search'    : ["https://search.yahoo.com/search?ei=UTF-8&fr=sobloxsy&p=%query%", false]
+	}
+};
 
 /*	BING
 	----------------------------------------------------- */
